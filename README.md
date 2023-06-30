@@ -2,7 +2,7 @@
 
 ## Boto3 Starter repo  
 
-### [Markdown guide used to builf this README](https://www.markdownguide.org/basic-syntax/#overview)  
+### [Markdown guide used to build this README](https://www.markdownguide.org/basic-syntax/#overview)  
 
  > ### Table of contents
 
