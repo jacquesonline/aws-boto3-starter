@@ -3,7 +3,7 @@
 ## Boto3 Starter repo  
 
 ### [Markdown guide used to build this README](https://www.markdownguide.org/basic-syntax/#overview)  
-
+### [Working code equivelent of the boto3 course](https://hands-on.cloud/python-boto3-tutorials/)
  > ### Table of contents
 
 1. S3
