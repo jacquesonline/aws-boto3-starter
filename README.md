@@ -4,7 +4,7 @@
 
 ### [Markdown guide used to build this README](https://www.markdownguide.org/basic-syntax/#overview)  
 ### [Working code equivelent of the boto3 course](https://hands-on.cloud/python-boto3-tutorials/)
-### [Official bobt3 documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/elbv2.html)
+### [Official boto3 documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/elbv2.html)
  > ### Table of contents
 
 1. S3
